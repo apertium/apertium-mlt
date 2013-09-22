@@ -5,9 +5,11 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-mlt-0.1.pc.in -text
 /apertium-mlt.mlt.acx -text
 /apertium-mlt.mlt.dix -text
 /apertium-mlt.mlt.rlx -text
 /apertium-mlt.post-mlt.dix -text
 /autogen.sh -text
 /configure.ac -text
+/modes.xml -text
