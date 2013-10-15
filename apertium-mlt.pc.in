@@ -1,6 +1,8 @@
 prefix=@prefix@
 exec_prefix=${prefix}
 libdir=@libdir@
+dir=@libdir@/apertium/apertium-mlt
+srcdir=@datarootdir@/apertium/apertium-mlt
 
 Name: apertium-mlt
 Description: Finite-state morphological transducer and constraint grammar for Maltese 
