@@ -12,4 +12,5 @@
 /apertium-mlt.post-mlt.dix -text
 /autogen.sh -text
 /configure.ac -text
+/mlt.prob -text
 /modes.xml -text
