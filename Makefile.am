@@ -8,6 +8,7 @@ LANG1=mlt
 BASENAME=apertium-$(LANG1)
 
 TARGETS_COMMON = $(LANG1).automorf.bin $(LANG1).autogen.bin \
+	$(LANG1).autopgen.bin \
 	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
         $(LANG1).rlx.bin
 
@@ -16,9 +17,11 @@ TARGETS_COMMON = $(LANG1).automorf.bin $(LANG1).autogen.bin \
 ###############################################################################
 
 $(LANG1).autogen.bin: $(BASENAME).$(LANG1).dix
+	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 
 $(LANG1).automorf.bin: $(BASENAME).$(LANG1).dix
+	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
 $(LANG1).autogen.att.gz: $(LANG1).autogen.bin
@@ -26,6 +29,12 @@ $(LANG1).autogen.att.gz: $(LANG1).autogen.bin
 
 $(LANG1).automorf.att.gz: $(LANG1).automorf.bin
 	lt-print $< | gzip -9 -c > $@
+
+
+# Post-generator
+$(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
+	apertium-validate-dictionary $<
+	lt-comp lr $< $@
 
 ###############################################################################
 ## Disambiguation rules 
