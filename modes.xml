@@ -17,6 +17,17 @@
     </pipeline>
   </mode>
 
+  <mode name="mlt-tagger">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="mlt.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w -n -1">
+        <file name="mlt.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="mlt-disam">
     <pipeline>
       <program name="lt-proc -w">
