@@ -153,7 +153,7 @@ SELECT:r17 NOUN IF
         (-1 DETDEF)
         (0 NOUN)
         (0 ADJ)
-        (NOT 1 NOUN)
+        (NOT 1 NOUN) ;
 
 SELECT:r18 DET IF
         (0  DET)
@@ -182,12 +182,12 @@ SELECT:r22 DET IF
         (1 ADJ);
 
 REMOVE:r23 NOUNPX IF
-	(-1 DETDEF)
+	(-1 DETDEF) ;
 
 SELECT:r24 VRBPL IF
         (0 VRBPL)
         (0 VRBSG) 
-        (1 VRBPL);
+        (1 VRBPL) ;
 
 SELECT:r25 VRBPL IF
         (0 VRBPL)
