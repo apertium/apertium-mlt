@@ -27,3 +27,7 @@ dev/mt_verbs/stems-semitic.wiki -text
 dev/mt_verbs/verb.py -text
 /mlt.prob -text
 /modes.xml -text
+texts/malta.vislcg.txt -text
+texts/puupankki.mlt.feats -text
+texts/puupankki/puupankki.mlt.conllu -text
+texts/puupankki/puupankki.mlt.tagged -text
