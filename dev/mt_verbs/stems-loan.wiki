@@ -73,6 +73,8 @@
 |-
 | ikkwalifika || vblex || loan || double_cons || qualify || kkwalifik ||  || a || tv || kwalifikat
 |-
+| iffurma || vblex || loan || double_cons || sign || ffurm ||  || a || tv || iffurmat
+|-
 | ikkonsidra || vblex || loan || double_cons || consider || kkonsidr ||  || i || tv || konsidrat
 |-
 | ivvota || vblex || loan || double_cons || vote || vvot ||  || a || tv || vvotat
