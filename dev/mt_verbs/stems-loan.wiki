@@ -13,6 +13,8 @@
 |-
 | kanta || vblex || loan || first_cons || sing || kant ||  || a || tv || kantat
 |-
+| aċċetta || vblex || loan || first_vowel || accept || aċċett ||  || a || tv || aċċett
+|-
 | ammira || vblex || loan || first_vowel || admire || ammir ||  || a || tv || ammirat
 |-
 | stimula || vblex || loan || two_cons || stimulate || stimul ||  || a || tv || stimulat
