@@ -1,79 +1,79 @@
 +	Uru	NOUN	wera	wera	^Uru/wera<vblex><tv><imp><p2><mf><pl>$
 	Ġiethom	VERB	ġie	ġ-j-'	^Ġiethom/ġie<vblex><tv><past><p3><f><sg>+u<prn><p3><mf><pl>$
 	Żgħira	ADJ	żgħir	null	^Żgħira/żgħir<adj><f><sg>$
-	Qaeda’	NOUN-PROP	qaeda’	null	^Qaeda/Qaeda<np><cog><mf><sg>$’
-	jiftaħhielek	VERB	fetaħ	f-t-ħ	^jiftaħhielek/fetaħ<vblex><tv><pres><p3><m><sg>+u<prn><p3><f><sg>+lu<prn><p2><mf><sg>$
-	ġgantesk	VERB	null	null	^ġgantesk/ġgantesk<adj><m><sg>$
-	terġa	NOUN	null	null	^terġa/reġa<vblex><tv><pres><p3><f><sg>/reġa<vblex><tv><pres><p2><mf><sg>$
-	konsekuttiv	ADJ	konsekuttiv	null	^konsekuttiv/konsekuttiv<adj><m><sg>$
++	Qaeda’	NOUN-PROP	qaeda’	null	^Qaeda/Qaeda<np><cog><mf><sg>$’
++	jiftaħhielek	VERB	fetaħ	f-t-ħ	^jiftaħhielek/fetaħ<vblex><tv><pres><p3><m><sg>+u<prn><p3><f><sg>+lu<prn><p2><mf><sg>$
+?	ġgantesk	VERB	null	null	^ġgantesk/ġgantesk<adj><m><sg>$
+?	terġa	NOUN	null	null	^terġa/reġa<vblex><tv><pres><p3><f><sg>/reġa<vblex><tv><pres><p2><mf><sg>$
++	konsekuttiv	ADJ	konsekuttiv	null	^konsekuttiv/konsekuttiv<adj><m><sg>$
 	Xiħa	NOUN	xiħ	null	^Xiħa/xiħ<adj><f><sg>$
-	Qaluh	VERB	qal	q-w-l	^Qaluh/qal<vblex><tv><past><p3><mf><pl>+u<prn><p3><m><sg>$
-	Sinjali	NOUN	null	null	^Sinjali/sinjal<n><m><pl>$
++	Qaluh	VERB	qal	q-w-l	^Qaluh/qal<vblex><tv><past><p3><mf><pl>+u<prn><p3><m><sg>$
++	Sinjali	NOUN	null	null	^Sinjali/sinjal<n><m><pl>$
 	stretta	PART-PASS	null	null	^stretta/strett<adj><f><sg>$
-	sajf	NOUN	sajf	null	^sajf/sajf<n><m><sg>$
-	jkunx	KIEN	kien	null	^jkunx/kien<vaux><iv><pres><p3><m><sg>+x<neg>$
++	sajf	NOUN	sajf	null	^sajf/sajf<n><m><sg>$
+?	jkunx	KIEN	kien	null	^jkunx/kien<vaux><iv><pres><p3><m><sg>+x<neg>$
 	aħniex	PRON-PERS-NEG	aħniex	null	^aħniex/free<prn><p1><mf><pl>+x<neg>$
-	saddilhom	VERB	sadd	s-d-d	^saddilhom/sadd<vblex><tv><past><p3><m><sg>+lu<prn><p3><mf><pl>$
++	saddilhom	VERB	sadd	s-d-d	^saddilhom/sadd<vblex><tv><past><p3><m><sg>+lu<prn><p3><mf><pl>$
 	jinħbew	VERB	null	null	^jinħbew/nħeba<vblex><iv><pres><p3><mf><pl>$
-	toħolmux	VERB	ħolom	ħ-l-m	^toħolmux/ħolom<vblex><iv><pres><p2><mf><pl>+x<neg>$
++	toħolmux	VERB	ħolom	ħ-l-m	^toħolmux/ħolom<vblex><iv><pres><p2><mf><pl>+x<neg>$
 	ġratilha	VERB	ġara	ġara	^ġratilha/ġara<vblex><iv><past><p3><f><sg>+lu<prn><p3><f><sg>$
 	dardarhom	NOUN	null	null	^dardarhom/dardar<vblex><tv><past><p3><m><sg>+u<prn><p3><mf><pl>/dardar<vblex><tv><imp><p2><mf><sg>+u<prn><p3><mf><pl>$
 	tarilhom	VERB	tar	t-j-r	^tarilhom/tar<vblex><iv><past><p3><m><sg>+lu<prn><p3><mf><pl>$
 	ġbidnielha	VERB	ġibed	ġ-b-d	^ġbidnielha/ġibed<vblex><tv><past><p1><mf><pl>+lu<prn><p3><f><sg>$
-	Jilħaq	VERB	laħaq	l-ħ-q	^Jilħaq/laħaq<vblex><tv><pres><p3><m><sg>$
++	Jilħaq	VERB	laħaq	l-ħ-q	^Jilħaq/laħaq<vblex><tv><pres><p3><m><sg>$
 	Ikkunsidrat	PART-PASS	null	null	^Ikkunsidrat/ikkunsidrat<adj><m><sg>$
-	BERTRAND	NOUN-PROP	bertrand	null	^BERTRAND/Bertrand<np><ant><m><sg>$
-	jridhomx	VERB	ried	ried	^jridhomx/ried<vblex><tv><pres><p3><m><sg>+u<prn><p3><mf><pl>+x<neg>$
++	BERTRAND	NOUN-PROP	bertrand	null	^BERTRAND/Bertrand<np><ant><m><sg>$
++	jridhomx	VERB	ried	ried	^jridhomx/ried<vblex><tv><pres><p3><m><sg>+u<prn><p3><mf><pl>+x<neg>$
 	Binu	NOUN-PROP	binu	null	^Binu/iben<n><m><sg><px3sg_m>$
 	qiesna	PART-ACT	qies	q-j-s	^qiesna/qies<vblex><tv><past><p3><m><sg>+u<prn><p1><mf><pl>$
-	ALLAN	NOUN-PROP	allan	null	^ALLAN/Allan<np><cog><mf><sg>/Allan<np><ant><m><sg>$
++	ALLAN	NOUN-PROP	allan	null	^ALLAN/Allan<np><cog><mf><sg>/Allan<np><ant><m><sg>$
 	Snajja’	NOUN-PROP	snajja’	null	^Snajja’/sengħa<n><f><pl>$
-	Tlabniehom	VERB	talab	t-l-b	^Tlabniehom/talab<vblex><tv><past><p1><mf><pl>+u<prn><p3><mf><pl>$
++	Tlabniehom	VERB	talab	t-l-b	^Tlabniehom/talab<vblex><tv><past><p1><mf><pl>+u<prn><p3><mf><pl>$
 	ppenetrat	PART-PASS	null	null	^ppenetrat/ippenetra<vblex><tv><past><p3><f><sg>$
-	jixhed	VERB	xehed	x-h-d	^jixhed/xehed<vblex><tv><pres><p3><m><sg>$
++	jixhed	VERB	xehed	x-h-d	^jixhed/xehed<vblex><tv><pres><p3><m><sg>$
 	ingorru	VERB	null	null	^ingorru/ġarr<vblex><tv><pres><p1><mf><pl>/ġarr<vblex><tv><pres><p1><mf><sg>+u<prn><p3><m><sg>$
-	Jien	PRON-PERS	jien	null	^Jien/free<prn><p1><mf><sg>$
-	milling	NOUN	null	null	^milling/milling<n><m><sg>$
-	għedtulhom	VERB	qal	q-w-l	^għedtulhom/qal<vblex><tv><past><p2><mf><pl>+lu<prn><p3><mf><pl>$
-	konkorsi	NOUN	null	null	^konkorsi/konkors<n><m><pl>$
-	nesprimuha	VERB	esprima	null	^nesprimuha/esprima<vblex><tv><pres><p1><mf><pl>+u<prn><p3><f><sg>$
++	Jien	PRON-PERS	jien	null	^Jien/free<prn><p1><mf><sg>$
++	milling	NOUN	null	null	^milling/milling<n><m><sg>$
++	għedtulhom	VERB	qal	q-w-l	^għedtulhom/qal<vblex><tv><past><p2><mf><pl>+lu<prn><p3><mf><pl>$
++	konkorsi	NOUN	null	null	^konkorsi/konkors<n><m><pl>$
++	nesprimuha	VERB	esprima	null	^nesprimuha/esprima<vblex><tv><pres><p1><mf><pl>+u<prn><p3><f><sg>$
 	iroddulha	VERB	null	null	^iroddulha/radd<vblex><tv><pres><p3><mf><pl>+lu<prn><p3><f><sg>$
-	PACEVILLE	NOUN-PROP	paceville	null	^PACEVILLE/Paceville<np><top><m><sg>$
++	PACEVILLE	NOUN-PROP	paceville	null	^PACEVILLE/Paceville<np><top><m><sg>$
 	Iffurmat	PART-PASS	iffurmat	null	^Iffurmat/iffurmat<adj><m><sg>/iffurma<vblex><tv><pp><m><sg>/iffurma<vblex><tv><past><p3><f><sg>$
-	Agħtuha	VERB	ta	ta	^Agħtuha/ta<vblex><tv><imp><p2><mf><pl>+u<prn><p3><f><sg>$
-	Biden	NOUN-PROP	biden	null	^Biden/Biden<np><cog><mf><sg>$
-	Irrappreżenta	VERB	irrappreżenta	null	^Irrappreżenta/irrappreżenta<vblex><tv><past><p3><m><sg>/irrappreżenta<vblex><tv><imp><p2><mf><sg>$
-	George	NOUN-PROP	George	null	^George/George<np><ant><m><sg>$
-	Moħriet	NOUN	moħriet	moħriet	^Moħriet/moħriet<n><m><sg>$
++	Agħtuha	VERB	ta	ta	^Agħtuha/ta<vblex><tv><imp><p2><mf><pl>+u<prn><p3><f><sg>$
++	Biden	NOUN-PROP	biden	null	^Biden/Biden<np><cog><mf><sg>$
++	Irrappreżenta	VERB	irrappreżenta	null	^Irrappreżenta/irrappreżenta<vblex><tv><past><p3><m><sg>/irrappreżenta<vblex><tv><imp><p2><mf><sg>$
++	George	NOUN-PROP	George	null	^George/George<np><ant><m><sg>$
++	Moħriet	NOUN	moħriet	moħriet	^Moħriet/moħriet<n><m><sg>$
 	amerikani	NOUN	amerikan	null	^amerikani/amerikan<adj><mf><pl>$
-	gismu	NOUN	null	null	^gismu/ġisem<n><m><sg><px3sg_m>$
-	tiktbuha	VERB	kiteb	k-t-b	^tiktbuha/kiteb<vblex><tv><pres><p2><mf><pl>+u<prn><p3><f><sg>$
-	Decizjoni	NOUN	null	null	^Decizjoni/deċiżjoni<n><f><sg>$
-	nilmaħhom	VERB	lemaħ	l-m-ħ	^nilmaħhom/lemaħ<vblex><tv><pres><p1><mf><sg>+u<prn><p3><mf><pl>$
-	qatlu	NOUN	qatel	q-t-l	^qatlu/qatel<vblex><tv><past><p3><m><sg>+u<prn><p3><m><sg>/qatel<vblex><tv><past><p3><mf><pl>$
-	ttraduċiet	VERB	null	null	^ttraduċiet/ittraduċa<vblex><tv><past><p3><f><sg>$
-	identita`	NOUN	null	null	^identita/identità<n><f><sg>$`
-	indikajniehom	VERB	indika	null	^indikajniehom/indika<vblex><tv><past><p1><mf><pl>+u<prn><p3><mf><pl>$
-	NORMAN	NOUN-PROP	norman	null	^NORMAN/Norman<np><cog><mf><sg>/Norman<np><ant><m><sg>$
-	Rene	NOUN-PROP	Rene	null	^Rene/Rene<np><ant><m><sg>$
-	originalment	ADV	null	null	^originalment/oriġinalment<adv>$
-	iċċappsu	VERB	null	null	^iċċappsu/iċċappas<vblex><iv><past><p3><mf><pl>/iċċappas<vblex><iv><imp><p2><mf><pl>$
-	sninhom	NOUN	sena	s-n-j	^sninhom/sena<n><f><pl><px3pl>$
-	Ezenzjoni	NOUN	null	null	^Ezenzjoni/eżenzjoni<n><f><sg>$
-	jgħir	VERB	għer	għer	^jgħir/għar<vblex><iv><pres><p3><m><sg>$
-	Greenland	NOUN-PROP	greenland	null	^Greenland/Greenland<np><top><f><sg>$
++	gismu	NOUN	null	null	^gismu/ġisem<n><m><sg><px3sg_m>$
++	tiktbuha	VERB	kiteb	k-t-b	^tiktbuha/kiteb<vblex><tv><pres><p2><mf><pl>+u<prn><p3><f><sg>$
++	Decizjoni	NOUN	null	null	^Decizjoni/deċiżjoni<n><f><sg>$
++	nilmaħhom	VERB	lemaħ	l-m-ħ	^nilmaħhom/lemaħ<vblex><tv><pres><p1><mf><sg>+u<prn><p3><mf><pl>$
++	qatlu	NOUN	qatel	q-t-l	^qatlu/qatel<vblex><tv><past><p3><m><sg>+u<prn><p3><m><sg>/qatel<vblex><tv><past><p3><mf><pl>$
++	ttraduċiet	VERB	null	null	^ttraduċiet/ittraduċa<vblex><tv><past><p3><f><sg>$
++	identita`	NOUN	null	null	^identita/identità<n><f><sg>$`
++	indikajniehom	VERB	indika	null	^indikajniehom/indika<vblex><tv><past><p1><mf><pl>+u<prn><p3><mf><pl>$
++	NORMAN	NOUN-PROP	norman	null	^NORMAN/Norman<np><cog><mf><sg>/Norman<np><ant><m><sg>$
++	Rene	NOUN-PROP	Rene	null	^Rene/Rene<np><ant><m><sg>$
++	originalment	ADV	null	null	^originalment/oriġinalment<adv>$
++	iċċappsu	VERB	null	null	^iċċappsu/iċċappas<vblex><iv><past><p3><mf><pl>/iċċappas<vblex><iv><imp><p2><mf><pl>$
++	sninhom	NOUN	sena	s-n-j	^sninhom/sena<n><f><pl><px3pl>$
++	Ezenzjoni	NOUN	null	null	^Ezenzjoni/eżenzjoni<n><f><sg>$
++	jgħir	VERB	għer	għer	^jgħir/għar<vblex><iv><pres><p3><m><sg>$
++	Greenland	NOUN-PROP	greenland	null	^Greenland/Greenland<np><top><f><sg>$
 	S'	NOUN-PROP	S'	null	^S'/sa<pr>$ 
-	Tistennew	VERB	stenna	stenna	^Tistennew/stenna<vblex><tv><pres><p2><mf><pl>$
-	Clifton	NOUN-PROP	clifton	null	^Clifton/Clifton<np><ant><m><sg>$
-	nilgħabhom	VERB	lagħab	l-għ-b	^nilgħabhom/lagħab<vblex><tv><pres><p1><mf><sg>+u<prn><p3><mf><pl>$
-	Annimali	NOUN	null	null	^Annimali/annimal<n><m><pl>$
-	irrid	VERB	null	null	^irrid/ried<vblex><tv><pres><p3><f><sg>/ried<vblex><tv><pres><p2><mf><sg>$
-	Temmejt	VERB	temm	temm	^Temmejt/temm<vblex><tv><past><p2><mf><sg>/temm<vblex><tv><past><p1><mf><sg>$
-	Charlie	NOUN-PROP	charlie	null	^Charlie/Charlie<np><ant><m><sg>/Charlie<np><ant><f><sg>$
-	Finlandja	NOUN	null	null	^Finlandja/Finlandja<np><top><f><sg>$
-	ġiebuhielu	VERB	null	null	^ġiebuhielu/ġieb<vblex><tv><past><p3><mf><pl>+u<prn><p3><f><sg>+lu<prn><p3><m><sg>$
-	nħarsu	VERB	null	null	^nħarsu/ħares<vblex><iv><pres><p1><mf><pl>$
-	atmosferiċi	ADJ	atmosferiku	null	^atmosferiċi/atmosferiku<adj><mf><pl>$
++	Tistennew	VERB	stenna	stenna	^Tistennew/stenna<vblex><tv><pres><p2><mf><pl>$
++	Clifton	NOUN-PROP	clifton	null	^Clifton/Clifton<np><ant><m><sg>$
++	nilgħabhom	VERB	lagħab	l-għ-b	^nilgħabhom/lagħab<vblex><tv><pres><p1><mf><sg>+u<prn><p3><mf><pl>$
++	Annimali	NOUN	null	null	^Annimali/annimal<n><m><pl>$
+!	irrid	VERB	null	null	^irrid/ried<vblex><tv><pres><p3><f><sg>/ried<vblex><tv><pres><p2><mf><sg>$
++	Temmejt	VERB	temm	temm	^Temmejt/temm<vblex><tv><past><p2><mf><sg>/temm<vblex><tv><past><p1><mf><sg>$
++	Charlie	NOUN-PROP	charlie	null	^Charlie/Charlie<np><ant><m><sg>/Charlie<np><ant><f><sg>$
++	Finlandja	NOUN	null	null	^Finlandja/Finlandja<np><top><f><sg>$
++	ġiebuhielu	VERB	null	null	^ġiebuhielu/ġieb<vblex><tv><past><p3><mf><pl>+u<prn><p3><f><sg>+lu<prn><p3><m><sg>$
++	nħarsu	VERB	null	null	^nħarsu/ħares<vblex><iv><pres><p1><mf><pl>$
++	atmosferiċi	ADJ	atmosferiku	null	^atmosferiċi/atmosferiku<adj><mf><pl>$
 	jaghtihom	VERB	null	null	^jaghtihom/ta<vblex><tv><pres><p3><m><sg>+u<prn><p3><mf><pl>$
 	tinġabru	VERB	nġabar	nġabar	^tinġabru/nġabar<vblex><iv><pres><p2><mf><pl>$
 	Eżattament	ADV	eżattament	null	^Eżattament/eżattament<adv>$
