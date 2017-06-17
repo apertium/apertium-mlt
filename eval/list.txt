@@ -74,96 +74,96 @@
 +	ġiebuhielu	VERB	null	null	^ġiebuhielu/ġieb<vblex><tv><past><p3><mf><pl>+u<prn><p3><f><sg>+lu<prn><p3><m><sg>$
 +	nħarsu	VERB	null	null	^nħarsu/ħares<vblex><iv><pres><p1><mf><pl>$
 +	atmosferiċi	ADJ	atmosferiku	null	^atmosferiċi/atmosferiku<adj><mf><pl>$
-	jaghtihom	VERB	null	null	^jaghtihom/ta<vblex><tv><pres><p3><m><sg>+u<prn><p3><mf><pl>$
-	tinġabru	VERB	nġabar	nġabar	^tinġabru/nġabar<vblex><iv><pres><p2><mf><pl>$
-	Eżattament	ADV	eżattament	null	^Eżattament/eżattament<adv>$
-	Florin	NOUN-PROP	florin	null	^Florin/Florin<np><ant><m><sg>$
-	tixrobhom	VERB	xorob	x-r-b	^tixrobhom/xorob<vblex><tv><pres><p3><f><sg>+u<prn><p3><mf><pl>/xorob<vblex><tv><pres><p2><mf><sg>+u<prn><p3><mf><pl>$
-	Issiru	VERB	null	null	^Issiru/sar<vblex><iv><pres><p2><mf><pl>$
-	spiritwalita'	VERB	null	null	^spiritwalita/spiritwalità<n><f><sg>$'
-	jgħiduli	VERB	null	null	^jgħiduli/qal<vblex><tv><pres><p3><mf><pl>+lu<prn><p1><mf><sg>$
-	Iddeskriviet	VERB	iddeskriva	null	^Iddeskriviet/iddeskriva<vblex><tv><past><p3><f><sg>$
++	jaghtihom	VERB	null	null	^jaghtihom/ta<vblex><tv><pres><p3><m><sg>+u<prn><p3><mf><pl>$
++	tinġabru	VERB	nġabar	nġabar	^tinġabru/nġabar<vblex><iv><pres><p2><mf><pl>$
++	Eżattament	ADV	eżattament	null	^Eżattament/eżattament<adv>$
++	Florin	NOUN-PROP	florin	null	^Florin/Florin<np><ant><m><sg>$
++	tixrobhom	VERB	xorob	x-r-b	^tixrobhom/xorob<vblex><tv><pres><p3><f><sg>+u<prn><p3><mf><pl>/xorob<vblex><tv><pres><p2><mf><sg>+u<prn><p3><mf><pl>$
++	Issiru	VERB	null	null	^Issiru/sar<vblex><iv><pres><p2><mf><pl>$
++	spiritwalita'	VERB	null	null	^spiritwalita/spiritwalità<n><f><sg>$'
++	jgħiduli	VERB	null	null	^jgħiduli/qal<vblex><tv><pres><p3><mf><pl>+lu<prn><p1><mf><sg>$
++	Iddeskriviet	VERB	iddeskriva	null	^Iddeskriviet/iddeskriva<vblex><tv><past><p3><f><sg>$
 	xi	QUAN	xi	null	^xi/xi<prn><itg><mf><sp>/xi<det><ind><mf><sp>$
-	nibdewkx	VERB	null	null	^nibdewkx/beda<vblex><tv><pres><p1><mf><pl>+u<prn><p2><mf><sg>+x<neg>$
-	joqtluna	VERB	qatel	qatel	^joqtluna/qatel<vblex><tv><pres><p3><mf><pl>+u<prn><p1><mf><pl>$
-	Disinni	NOUN-PROP	disinni	null	^Disinni/disinn<n><m><pl>$
-	istabbiliment	NOUN	null	null	^istabbiliment/istabbiliment<n><m><sg>$
-	triqitha	VERB	triq	null	^triqitha/triq<n><f><sg><px3sg_f>$
++	nibdewkx	VERB	null	null	^nibdewkx/beda<vblex><tv><pres><p1><mf><pl>+u<prn><p2><mf><sg>+x<neg>$
++	joqtluna	VERB	qatel	qatel	^joqtluna/qatel<vblex><tv><pres><p3><mf><pl>+u<prn><p1><mf><pl>$
++	Disinni	NOUN-PROP	disinni	null	^Disinni/disinn<n><m><pl>$
++	istabbiliment	NOUN	null	null	^istabbiliment/istabbiliment<n><m><sg>$
++	triqitha	VERB	triq	null	^triqitha/triq<n><f><sg><px3sg_f>$
 	bbażata	PART-PASS	ibbażat	null	^bbażata/ibbażat<adj><f><sg>$
 	Biddluli	VERB	biddel	biddel	^Biddluli/biddel<vblex><tv><past><p3><mf><pl>+lu<prn><p1><mf><sg>/biddel<vblex><tv><imp><p2><mf><pl>+lu<prn><p1><mf><sg>$
-	Natasha	VERB	null	null	^Natasha/Natasha<np><ant><f><sg>$
-	jirranġawha	VERB	irranġa	r-n-ġ-j	^jirranġawha/irranġa<vblex><tv><pres><p3><mf><pl>+u<prn><p3><f><sg>$
-	Russett	NOUN-PROP	Russett	null	^Russett/russett<n><m><sg>$
-	messaġg	NOUN	null	null	^messaġg/messaġġ<n><m><sg>$
++	Natasha	VERB	null	null	^Natasha/Natasha<np><ant><f><sg>$
++	jirranġawha	VERB	irranġa	r-n-ġ-j	^jirranġawha/irranġa<vblex><tv><pres><p3><mf><pl>+u<prn><p3><f><sg>$
++	Russett	NOUN-PROP	Russett	null	^Russett/russett<n><m><sg>$
++	messaġg	NOUN	null	null	^messaġg/messaġġ<n><m><sg>$
 	ċaħdu	NOUN	null	null	^ċaħdu/ċaħad<vblex><tv><past><p3><m><sg>+u<prn><p3><m><sg>/ċaħad<vblex><tv><past><p3><mf><pl>$
-	speċjalitajiet	NOUN	null	null	^speċjalitajiet/speċjalità<n><f><pl>$
-	pjazza'	NOUN	null	null	^pjazza/pjazza<n><f><sg>$'
-	teoloġika	VERB	null	null	^teoloġika/teoloġiku<adj><f><sg>$
-	Moviment	ADV	Moviment	null	^Moviment/moviment<n><m><sg>$
-	preistorika	ADJ	preistoriku	null	^preistorika/preistoriku<adj><f><sg>$
++	speċjalitajiet	NOUN	null	null	^speċjalitajiet/speċjalità<n><f><pl>$
++	pjazza'	NOUN	null	null	^pjazza/pjazza<n><f><sg>$'
++	teoloġika	VERB	null	null	^teoloġika/teoloġiku<adj><f><sg>$
++	Moviment	ADV	Moviment	null	^Moviment/moviment<n><m><sg>$
++	preistorika	ADJ	preistoriku	null	^preistorika/preistoriku<adj><f><sg>$
 	Rasna	NOUN-PROP	rasna	null	^Rasna/ras<n><f><sg><px1pl>$
-	babysitting	NOUN	null	null	^babysitting/babysitting<n><m><sg>$
++	babysitting	NOUN	null	null	^babysitting/babysitting<n><m><sg>$
 	linef	ADJ	linfa	null	^linef/linfa<n><f><pl>$
 	Fdat	VERB	null	null	^Fdat/fdat<adj><m><sg>$
-	Anders	NOUN	null	null	^Anders/Anders<np><ant><m><sg>$
++	Anders	NOUN	null	null	^Anders/Anders<np><ant><m><sg>$
 	jħarbatha	VERB	ħarbat	ħarbat	^jħarbatha/ħarbat<vblex><tv><pres><p3><m><sg>+u<prn><p3><f><sg>$
 	filosofiċi	ADJ	filosofiku	null	^filosofiċi/filosofiku<adj><mf><pl>$
 	taħtru	VERB	ħater	ħater	^taħtru/ħatar<vblex><tv><pres><p2><mf><pl>/ħatar<vblex><tv><pres><p3><f><sg>+u<prn><p3><m><sg>/ħatar<vblex><tv><pres><p2><mf><sg>+u<prn><p3><m><sg>$
-	qaluhiex	VERB	qal	q-j-l	^qaluhiex/qal<vblex><tv><past><p3><mf><pl>+u<prn><p3><f><sg>+x<neg>$
-	xkaffa	NOUN	xkaffa	null	^xkaffa/xkaffa<n><f><sg>$
-	Jinkludi	VERB	inkluda	null	^Jinkludi/inkluda<vblex><tv><pres><p3><m><sg>$
-	FIlwaqt	VERB	null	null	^FIlwaqt/filwaqt<cnjadv>$
++	qaluhiex	VERB	qal	q-j-l	^qaluhiex/qal<vblex><tv><past><p3><mf><pl>+u<prn><p3><f><sg>+x<neg>$
++	xkaffa	NOUN	xkaffa	null	^xkaffa/xkaffa<n><f><sg>$
++	Jinkludi	VERB	inkluda	null	^Jinkludi/inkluda<vblex><tv><pres><p3><m><sg>$
++	FIlwaq	VERB	null	null	^FIlwaqt/filwaqt<cnjadv>$
 	nadifa’	VERB	null	null	^nadifa/nadif<adj><f><sg>$’
 	ħelishielu	VERB	null	null	^ħelishielu/ħeles<vblex><tv><past><p3><m><sg>+u<prn><p3><f><sg>+lu<prn><p3><m><sg>$
 	qaras	NOUN	qaras	qaras	^qaras/qaras<vblex><tv><past><p3><m><sg>$
-	Libjan	ADJ	null	null	^Libjan/libjan<adj><m><sg>$
++	Libjan	ADJ	null	null	^Libjan/libjan<adj><m><sg>$
 	Pollakk	NOUN-PROP	pollakk	null	^Pollakk/pollakk<adj><m><sg>$
-	votazzjoni	NOUN	null	null	^votazzjoni/votazzjoni<n><f><sg>$
-	Intimità	NOUN	intimità	null	^Intimità/intimità<n><f><sg>$
-	Pierre	NOUN-PROP	pierre	null	^Pierre/Pierre<np><ant><m><sg>$
-	BUZZIEQA	NOUN	null	null	^BUZZIEQA/bużżieqa<n><f><sg>$
++	votazzjoni	NOUN	null	null	^votazzjoni/votazzjoni<n><f><sg>$
++	Intimità	NOUN	intimità	null	^Intimità/intimità<n><f><sg>$
++	Pierre	NOUN-PROP	pierre	null	^Pierre/Pierre<np><ant><m><sg>$
++	BUZZIEQA	NOUN	null	null	^BUZZIEQA/bużżieqa<n><f><sg>$
 	laqtukom	VERB	laqat	l-q-t	^laqtukom/laqat<vblex><tv><past><p3><mf><pl>+u<prn><p2><mf><pl>$
 	hadid	ADJ	null	null	^hadid/ħadid<n><m><sg>$
-	EWLENIN	ADJ	ewlieni	null	^EWLENIN/ewlieni<adj><mf><pl>$
++	EWLENIN	ADJ	ewlieni	null	^EWLENIN/ewlieni<adj><mf><pl>$
 	ħadra’	NOUN	null	null	^ħadra/aħdar<adj><f><sg>$’
 	jgħixx	VERB	għex	għex	^jgħixx/għax<vblex><iv><pres><p3><m><sg>+x<neg>/għax<vblex><tv><pres><p3><m><sg>+x<neg>$
-	Żmien	NOUN	null	null	^Żmien/żmien<n><m><sg>$
++	Żmien	NOUN	null	null	^Żmien/żmien<n><m><sg>$
 	Tweġiba'	VERB	null	null	^Tweġiba/tweġiba<n><f><sg>$'
-	natività	NOUN	null	null	^natività/natività<n><f><sg>$
-	Tittiekel	VERB	ttiekel	t-k-l	^Tittiekel/ttiekel<vblex><iv><pres><p3><f><sg>/ttiekel<vblex><iv><pres><p2><mf><sg>$
-	niftaħhom	VERB	fetaħ	f-t-ħ	^niftaħhom/fetaħ<vblex><tv><pres><p1><mf><sg>+u<prn><p3><mf><pl>$
-	jgħattini	VERB	għatta	għ-t-j	^jgħattini/għatta<vblex><tv><pres><p3><m><sg>+u<prn><p1><mf><sg>$
-	tattici	ADJ	null	null	^tattici/tattiku<adj><mf><pl>$
-	merfugh	PART-PASS	null	null	^merfugh/refa<vblex><tv><pp><m><sg>$
++	natività	NOUN	null	null	^natività/natività<n><f><sg>$
++	Tittiekel	VERB	ttiekel	t-k-l	^Tittiekel/ttiekel<vblex><iv><pres><p3><f><sg>/ttiekel<vblex><iv><pres><p2><mf><sg>$
++	niftaħhom	VERB	fetaħ	f-t-ħ	^niftaħhom/fetaħ<vblex><tv><pres><p1><mf><sg>+u<prn><p3><mf><pl>$
++	jgħattini	VERB	għatta	għ-t-j	^jgħattini/għatta<vblex><tv><pres><p3><m><sg>+u<prn><p1><mf><sg>$
++	tattici	ADJ	null	null	^tattici/tattiku<adj><mf><pl>$
++	merfugh	PART-PASS	null	null	^merfugh/refa<vblex><tv><pp><m><sg>$
 	Ridna	NOUN-PROP	ridna	null	^Ridna/ried<vblex><tv><imp><p2><mf><sg>+u<prn><p1><mf><pl>/ried<vblex><tv><past><p1><mf><pl>$
 	ddeċidejniex	VERB	null	null	^ddeċidejniex/iddeċida<vblex><tv><past><p1><mf><pl>+x<neg>$
 	lahqu	VERB	null	null	^lahqu/laħaq<vblex><tv><past><p3><m><sg>+u<prn><p3><m><sg>/laħaq<vblex><tv><past><p3><mf><pl>$
-	Ingliż	NOUN	null	null	^Ingliż/ingliż<adj><m><sg>/Ingliż<adj><m><sg>$
-	SARET	NOUN	sar	s-j-r	^SARET/sar<vblex><iv><past><p3><f><sg>$
-	assoċjazzjonijiet	NOUN	assoċjazzjoni	null	^assoċjazzjonijiet/assoċjazzjoni<n><f><pl>$
-	Elementi	ADJ	element	null	^Elementi/element<n><m><pl>$
-	Ħasbuhx	VERB	null	null	^Ħasbuhx/ħaseb<vblex><tv><past><p3><mf><pl>+u<prn><p3><m><sg>+x<neg>$
-	Rukkell	NOUN-PROP	rukkell	null	^Rukkell/rukkell<n><m><sg>$
-	Kimika	NOUN	kimiku	null	^Kimika/kimiku<adj><f><sg>$
-	Riħ	NOUN	rieħ	r-j-ħ	^Riħ/riħ<n><m><sg>$
-	xegħel	VERB	null	null	^xegħel/xegħel<vblex><tv><past><p3><m><sg>$
-	Ħdejk	NOUN	null	null	^Ħdejk/ħdejn<pr>+u<prn><p2><mf><sg>$
-	bażiku	ADJ	bażiku	null	^bażiku/bażiku<adj><m><sg>$
-	perjodiku	ADJ	null	null	^perjodiku/perjodiku<adj><m><sg>$
-	nintilef	VERB	ntilef	ntilef	^nintilef/ntilef<vblex><iv><pres><p1><mf><sg>$
-	ningabru	VERB	null	null	^ningabru/nġabar<vblex><iv><pres><p1><mf><pl>$
-	ċivilta’	NOUN	null	null	^ċivilta/ċiviltà<n><f><sg>$’
-	bejnietna’	NOUN	null	null	^bejnietna/bejn<pr>+u<prn><p1><mf><pl>$ ’
-	aggredixxa	VERB	aggredixxa	null	^aggredixxa/aggredixxa<vblex><tv><past><p3><m><sg>$
-	Grafiku	ADJ	grafiku	null	^Grafiku/grafiku<adj><m><sg>$
-	tesprimi	VERB	esprima	null	^tesprimi/esprima<vblex><tv><pres><p3><f><sg>/esprima<vblex><tv><pres><p2><mf><sg>$
+-	Ingliż	NOUN	null	null	^Ingliż/ingliż<adj><m><sg>/Ingliż<adj><m><sg>/Ingliż<n><f><sg$
++	SARET	NOUN	sar	s-j-r	^SARET/sar<vblex><iv><past><p3><f><sg>$
++	assoċjazzjonijiet	NOUN	assoċjazzjoni	null	^assoċjazzjonijiet/assoċjazzjoni<n><f><pl>$
++	Elementi	ADJ	element	null	^Elementi/element<n><m><pl>$
++	Ħasbuhx	VERB	null	null	^Ħasbuhx/ħaseb<vblex><tv><past><p3><mf><pl>+u<prn><p3><m><sg>+x<neg>$
+-	Rukkell	NOUN-PROP	rukkell	null	^Rukkell/rukkell<n><m><sg>/Rukkell<pn>$
++	Kimika	NOUN	kimiku	null	^Kimika/kimiku<adj><f><sg>/Kimika<n><f><sg>$
++	Riħ	NOUN	rieħ	r-j-ħ	^Riħ/riħ<n><m><sg>$
++	xegħel	VERB	null	null	^xegħel/xegħel<vblex><tv><past><p3><m><sg>$
+-	Ħdejk	NOUN	null	null	^Ħdejk/ħdejn<pr>+u<prn><p2><mf><sg>$
++	bażiku	ADJ	bażiku	null	^bażiku/bażiku<adj><m><sg>$
++	perjodiku	ADJ	null	null	^perjodiku/perjodiku<adj><m><sg>$
++	nintilef	VERB	ntilef	ntilef	^nintilef/ntilef<vblex><iv><pres><p1><mf><sg>$
++	ningabru	VERB	null	null	^ningabru/nġabar<vblex><iv><pres><p1><mf><pl>$
++	ċivilta’	NOUN	null	null	^ċivilta/ċiviltà<n><f><sg>$’
+-	bejnietna’	NOUN	null	null	^bejnietna/bejn<pr>+u<prn><p1><mf><pl>/bejn<pr><pl>+u<prn><p1><mf><pl>$
++	aggredixxa	VERB	aggredixxa	null	^aggredixxa/aggredixxa<vblex><tv><past><p3><m><sg>$
++	Grafiku	ADJ	grafiku	null	^Grafiku/grafiku<adj><m><sg>$
++	tesprimi	VERB	esprima	null	^tesprimi/esprima<vblex><tv><pres><p3><f><sg>/esprima<vblex><tv><pres><p2><mf><sg>$
 	siti	VERB	sit	null	^siti/sit<n><m><pl>$
-	Ġimgha	NOUN-PROP	ġimgha	null	^Ġimgha/ġimgħa<n><f><sg>$
-	titlifni	VERB	null	null	^titlifni/tilef<vblex><tv><pres><p3><f><sg>+u<prn><p1><mf><sg>/tilef<vblex><tv><pres><p2><mf><sg>+u<prn><p1><mf><sg>$
-	Mizzi	NOUN-PROP	Mizzi	null	^Mizzi/Mizzi<np><cog><mf><sg>$
-	tibgħatlek	VERB	null	null	^tibgħatlek/bagħat<vblex><tv><pres><p3><f><sg>+lu<prn><p2><mf><sg>/bagħat<vblex><tv><pres><p2><mf><sg>+lu<prn><p2><mf><sg>$
-	jgħinuna	VERB	null	null	^jgħinuna/għan<vblex><tv><pres><p3><mf><pl>+u<prn><p1><mf><pl>$
-	ingħatalux	VERB	null	null	^ingħatalux/ngħata<vblex><iv><imp><p2><mf><sg>+lu<prn><p3><m><sg>+x<neg>$
++	Ġimgha	NOUN-PROP	ġimgha	null	^Ġimgha/ġimgħa<n><f><sg>$
++	titlifni	VERB	null	null	^titlifni/tilef<vblex><tv><pres><p3><f><sg>+u<prn><p1><mf><sg>/tilef<vblex><tv><pres><p2><mf><sg>+u<prn><p1><mf><sg>$
++	Mizzi	NOUN-PROP	Mizzi	null	^Mizzi/Mizzi<np><cog><mf><sg>$
++	tibgħatlek	VERB	null	null	^tibgħatlek/bagħat<vblex><tv><pres><p3><f><sg>+lu<prn><p2><mf><sg>/bagħat<vblex><tv><pres><p2><mf><sg>+lu<prn><p2><mf><sg>$
++	jgħinuna	VERB	null	null	^jgħinuna/għan<vblex><tv><pres><p3><mf><pl>+u<prn><p1><mf><pl>$
++	ingħatalux	VERB	null	null	^ingħatalux/ngħata<vblex><iv><imp><p2><mf><sg>+lu<prn><p3><m><sg>+x<neg>$
 	qisniex	VERB	qies	q-j-s	^qisniex/qies<vblex><tv><past><p1><mf><pl>+x<neg>/qies<vblex><tv><imp><p2><mf><sg>+u<prn><p1><mf><pl>+x<neg>$
 	midlukin	PART-PASS	null	null	^midlukin/dilek<vblex><tv><pp><mf><pl>$
 	Provokazzjoni	NOUN	null	null	^Provokazzjoni/provokazzjoni<n><f><sg>$
