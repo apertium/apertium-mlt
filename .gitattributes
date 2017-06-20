@@ -26,7 +26,12 @@ dev/mt_verbs/stems-irregular.wiki -text
 dev/mt_verbs/stems-loan.wiki -text
 dev/mt_verbs/stems-semitic.wiki -text
 dev/mt_verbs/verb.py -text
+eval/evaluate-morph.py -text
 eval/list.txt -text
+eval/malti.txt -text
+eval/ref.txt -text
+eval/src.txt -text
+eval/tst.txt -text
 /mlt.prob -text
 /modes.xml -text
 speller/editdist.default.txt -text
